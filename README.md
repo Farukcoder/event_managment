@@ -31,7 +31,10 @@ Download and install [Laragon](https://laragon.org/download/).
 - The landing page will display all available events.
 - Example Screenshot:
 
-  ![Landing Page Screenshot](screenshot.png)
+  ![Landing Page Screenshot](/assets/document_image/1.png)
+  ![2 Screenshot](/assets/document_image/2.png)
+  ![3 Screenshot](/assets/document_image/3.png)
+
 
 ---
 **Note:** Replace `your/path/event_managment` with the actual path where you cloned the repository.
