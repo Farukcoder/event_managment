@@ -26,13 +26,8 @@ Download and install [Laragon](https://laragon.org/download/).
   ```sql
   CREATE DATABASE event_managment_system;
   ```
-
-### 5. Navigate to Project Directory
-```bash
-cd your/path/event_managment
-```
-### 9. View Landing Page
-- Open `http://localhost` in your browser to see the event listing.
+### 5. View Landing Page
+- Open `http://localhost/your-path/event_managment` in your browser to see the event listing.
 - The landing page will display all available events.
 - Example Screenshot:
 
