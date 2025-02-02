@@ -61,12 +61,12 @@ session_start();
 								<div class="form-group">
 									<label for="username" class="control-label sr-only">Username Or Email</label>
 									<input type="text" class="form-control" name="username" id=""
-										placeholder="Username Or Email">
+										placeholder="Username Or Email" value="faruk">
 								</div>
 								<div class="form-group">
 									<label for="password" class="control-label sr-only">Password</label>
 									<input type="password" class="form-control" id="" name="password"
-										placeholder="Password">
+										placeholder="Password" value="123456789">
 								</div>
 								<button type="submit" class="btn btn-primary btn-lg btn-block"
 									name="login">Login</button>
