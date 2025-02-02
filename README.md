@@ -26,7 +26,7 @@ Download and install [Laragon](https://laragon.org/download/).
   ```sql
   CREATE DATABASE event_managment_system;
   ```
-### 5. View Landing Page
+### 5. Login Admin
 - Open `http://localhost/your-path/event_managment/Admin` in your browser to see the event listing.
 - username: faruk
 - password: 123456789
