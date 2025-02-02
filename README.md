@@ -34,6 +34,11 @@ Download and install [Laragon](https://laragon.org/download/).
   ![Landing Page Screenshot](/assets/document_image/1.png)
   ![2 Screenshot](/assets/document_image/2.png)
   ![3 Screenshot](/assets/document_image/3.png)
+  ![4 Screenshot](/assets/document_image/4.png)
+  ![5 Screenshot](/assets/document_image/5.png)
+  ![6 Screenshot](/assets/document_image/6.png)
+  ![7 Screenshot](/assets/document_image/7.png)
+  ![8 Screenshot](/assets/document_image/8.png)
 
 
 ---
