@@ -27,6 +27,11 @@ Download and install [Laragon](https://laragon.org/download/).
   CREATE DATABASE event_managment_system;
   ```
 ### 5. View Landing Page
+- Open `http://localhost/your-path/event_managment/Admin` in your browser to see the event listing.
+- username: faruk
+- password: 123456789
+
+### 6. View Landing Page
 - Open `http://localhost/your-path/event_managment` in your browser to see the event listing.
 - The landing page will display all available events.
 - Example Screenshot:
